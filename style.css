@@ -1,0 +1,43 @@
+* {
+    font-family: 'Nunito', sans-serif;
+}
+
+body {
+    background-color: #000000;
+    color: #ffffff;
+
+    text-align: center;
+}
+
+#titulo-principal {
+    background-color: #2f3061;
+}
+
+.subtitulo {
+    background-color: #6ca6c1;
+}
+
+h1, h2 {
+    padding: 20px;
+    border-radius: 15px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li:hover {
+    background-color: #2f3061; 
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+
+    font-size: 20pt;
+}
+
+a:hover {
+    color: #6ca6c1;
+    font-size: 30pt;
+}
